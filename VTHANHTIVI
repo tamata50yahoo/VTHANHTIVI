@@ -62,7 +62,7 @@ https://wallpapermeter.tk/worldcup/vtv3mytv
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#http://live.vthanhtivi.pw/vtv5
+http://live.vthanhtivi.pw/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
 https://wallpapermeter.tk/worldcup/vtv5mytv
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 ViettelTV
