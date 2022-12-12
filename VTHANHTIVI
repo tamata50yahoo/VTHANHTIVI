@@ -46,15 +46,12 @@ https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #-*-VWorld Cup 2022-*-#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 http://live.vthanhtivi.pw/vtv2
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
-https://wallpapermeter.tk/worldcup/vtv2
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
 https://wallpapermeter.tk/worldcup/vtv2mytv
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://live.vthanhtivi.pw/vtv3
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
 https://wallpapermeter.tk/worldcup/vtv3mytv
@@ -73,8 +70,7 @@ http://live.vthanhtivi.pw/vtv5tnb
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 http://live.vthanhtivi.pw/vtvct
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV Cần Thơ FPT
-https://wallpapermeter.tk/worldcup/vtvcantho
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV Cần Thơ MyTV
 https://wallpapermeter.tk/worldcup/vtvcanthomytv
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
