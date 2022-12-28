@@ -217,10 +217,8 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
-
-#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8|Referer=https://sctvonline.vn/
-
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv9/playlist.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
