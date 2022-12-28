@@ -219,6 +219,7 @@ https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv9/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=https://sctvonline.vn/
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
@@ -236,20 +237,24 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8|Referer=https:/
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=https://sctvonline.vn/
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv16/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv17/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8|Referer=https://sctvonline.vn/
+#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=https://sctvonline.vn/
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=https://sctvonline.vn/
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv19/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8|Referer=https://sctvonline.vn/
-#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv20/playlist.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8|Referer=https://sctvonline.vn/
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv20/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=https://sctvonline.vn/
