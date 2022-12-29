@@ -17,9 +17,6 @@ https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="❤| VTV" tvg-id="vtv5hdtnb" tvg-logo="http://i.ibb.co/12ZVqnS/VTV5-TNB-1.png", VTV5 Tây Nam Bộ HD http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tnb@high.m3u8
-#EXTINF:-1 group-title="❤| VTV" tvg-id="vtv5hdtn" tvg-logo="http://i.ibb.co/XyNYs84/VTV5TN.jpg", VTV5 Tây Nguyên HD http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tn@high.m3u8
-
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
@@ -34,6 +31,10 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tnb@high.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nguyên HD
+http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tn@high.m3u8
 
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
