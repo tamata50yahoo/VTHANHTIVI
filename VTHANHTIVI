@@ -101,7 +101,8 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=https:/
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=https://sctvonline.vn/
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv13/playlist.m3u8
+#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv13/playlist.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8|Referer=https://sctvonline.vn/
