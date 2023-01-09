@@ -63,8 +63,8 @@ https://api.vthanhtivi.pw/v2/getlink/vieon/an-vien-hd/playlist.m3u8
 
 #-*--SCTV-*--#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
-#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=https://sctvonline.vn/
 https://api.vthanhtivi.pw/v2/getlink/sctv/sctv1/playlist.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
