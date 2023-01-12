@@ -148,7 +148,8 @@ https://cocc.me/🇸¹⁷|Referer=https://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
-https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
+#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=https://sctvonline.vn/
