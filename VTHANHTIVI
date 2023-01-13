@@ -186,6 +186,19 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
+#-*--K+--*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+ CINE
+https://longpt.net/vtvcabon/k-plus-1.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title=" K+", K+LIFE
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", K+ SPORT1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
+#EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
 #-*--THVL-*--#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -259,20 +272,6 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="antg" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
-
-#-*--K+--*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+ CINE
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title=" K+", K+LIFE
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", K+ SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
-
-#EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
 
 #-*--VTVCAB-*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",  VTVcab 1 - Vie Giải trí HD
