@@ -118,14 +118,15 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 ##EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12
-https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=https://sctvonline.vn/
 
 ##EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv13/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13
-https://s13.dl.dropboxusercontent.com/s/vaepmgj330mh22m/./%20
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+#https://s13.dl.dropboxusercontent.com/s/vaepmgj330mh22m/./%20
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=https://sctvonline.vn/
 
 ##EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
