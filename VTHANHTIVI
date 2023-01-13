@@ -98,9 +98,6 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV 8HD
-https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u
-
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/./s1/index.m3u8?phapferrari|Referer=http://sctvonline.vn/
 
