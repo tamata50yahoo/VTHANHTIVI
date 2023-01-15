@@ -311,7 +311,7 @@ https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab8hd" tvg-logo="https://img.vnmedia.xyz/logo/on-bibi.jpg",VTVCab8 - BiBi 
 https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", VTVcab 9
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", VTVcab 9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 
