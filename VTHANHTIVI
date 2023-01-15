@@ -311,8 +311,9 @@ https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab8hd" tvg-logo="https://img.vnmedia.xyz/logo/on-bibi.jpg",VTVCab8 - BiBi 
 https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
 
-#EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab9hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab9hd.jpg",VTVcab 9 - InfoTV 
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8 
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", VTVcab9
+#EXTGRP:VTVCAB
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab10hd" tvg-logo="https://img.vnmedia.xyz/logo/on-cine.jpg",ON Cine 
 https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
