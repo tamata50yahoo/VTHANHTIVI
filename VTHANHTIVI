@@ -258,7 +258,7 @@ https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
 https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", VTVCab2 - ON Phim Việt
 https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVCab3 - ON Sports HD
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVCab3 - ON Sports
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/m30_index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab4hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", VTVCab4 - ON Movies
 https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
