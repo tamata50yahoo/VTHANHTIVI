@@ -37,8 +37,11 @@ https://api.vthanhtivi.pw/v2/getlink/vtv/vtv5tn/playlist.m3u8
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
-#EXTINF:-1, Nhân Dân TV
+
+#EXTINF:-1 tvg-id="nhandan" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/nhan-dan-hd/playlist.m3u8
+#https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
@@ -46,10 +49,10 @@ https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 http://103.90.220.236/vovlive/tv1live.m3u8
-#http://103.90.220.236/vovlive/tv1live.m3u8
 
 #-*--Khác-*--#
 #EXTINF:-1 tvg-id="anvienhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/an-vien-hd/playlist.m3u8
 
 #-*--SCTV-*--#
