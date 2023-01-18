@@ -17,8 +17,7 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-#EXTGRP:❤| VTV
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
@@ -81,8 +80,7 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #https://cocc.me/🇸⁴|Referer=http://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
-#EXTGRP:💚| SCTV
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
 ##EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
@@ -239,8 +237,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
-#EXTGRP:💛| HTV
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/55.png", HTVC Thuần Việt HD
@@ -339,8 +336,7 @@ https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png", VTC5 HD
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc5-hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6 HD
-#EXTGRP:💙| VTC
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6 HD
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png", VTC7 HD - TodayTV
