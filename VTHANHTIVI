@@ -276,7 +276,7 @@ https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab12hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", VTVCab12 - Style TV 
 https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab15hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", VTVcab15 
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab15hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", VTVcab15 - ON Music
 https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab16hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", VTVcab16 - ON Football 
 https://856175157.r.vtvcdn.com/ondrm/BONGDA_HD/m30_index.m3u8
@@ -289,7 +289,7 @@ https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab20hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png", VTVCab20 - V Family 
 https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
 
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab20hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", VTVCab21 - BiBi+ 
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab20hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", VTVCab21 - ON Kids 
 https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
 
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-id="vtvcab20hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", VTVCab22 - Life TV 
