@@ -567,8 +567,9 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://api.vthanhtivi.pw/v2/getlink/vtvcabon/history/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lovenature" group-title="🌿| Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/Love_Nature.png/revision/latest?cb=20211105035454&path-prefix=vi",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-id="lovenature" group-title="🌿| Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
