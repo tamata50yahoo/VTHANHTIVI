@@ -395,23 +395,6 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png", VTC16 HD
 https://api.vthanhtivi.pw/v2/getlink/vieon/vtc16-hd/playlist.m3u8
 
-#-*--K+--*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+ CINE
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title=" K+", K+LIFE
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", K+ SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
-
-#EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
-
 #-*--Quốc tế--*--#
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
@@ -583,6 +566,9 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://api.vthanhtivi.pw/v2/getlink/vtvcabon/history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lovenature" group-title="🌿| Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/Love_Nature.png/revision/latest?cb=20211105035454&path-prefix=vi",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
