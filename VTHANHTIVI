@@ -113,10 +113,9 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 #https://cocc.me/🇸⁹|Referer=https://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8|Referer=https://sctvonline.vn/
 
-
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
-#https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
-https://cocc.me/🇸¹¹|Referer=https://sctvonline.vn/
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#https://cocc.me/🇸¹¹|Referer=https://sctvonline.vn/
 
 ##EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
@@ -165,6 +164,7 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18
 https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/./s1/index.m3u8?phapferrari|Referer=https://sctvonline.vn/
