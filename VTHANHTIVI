@@ -115,8 +115,8 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
-https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
-#https://cocc.me/🇸¹¹|Referer=https://sctvonline.vn/
+#https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+https://cocc.me/🇸¹¹|Referer=https://sctvonline.vn/
 
 ##EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
