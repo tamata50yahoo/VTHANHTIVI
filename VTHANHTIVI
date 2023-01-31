@@ -803,16 +803,3 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", YTV HD | TH Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#-*K+*-#
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
-https://longpt.net/vtvcabon/k-plus-1.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title=" K+", K+LIFE
-https://longpt.net/vtvcabon/k-plus-ns.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://longpt.net/vtvcabon/k-plus-pm.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-https://longpt.net/vtvcabon/k-plus-pc.m3u8
-#EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids
-https://longpt.net/vtvcabon/k-plus-kids.m3u8
