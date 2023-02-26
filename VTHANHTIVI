@@ -335,6 +335,10 @@ https://856175157.r.vtvcdn.com/hls/THETHAO_GOLF_HD_kitlkgmndj/sc-gaFEAQ/m401_ind
 #EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/ONVOLLEYBALL_CL/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}", Thể thao Việt
 #https://856175157.r.vtvcdn.com/hls/ONVOLLEYBALL_CL/sc-gaFEAA/m30_index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt
+#https://856175157.r.vtvcdn.com/hls/ONVFFTV_CL/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
+#https://856175157.r.vtvcdn.com/hls/ONVOLLEYBALL_CL/sc-gaFEAA/m30_index.m3u8
 
 #-*--VTC-*--#
 #EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1 HD
