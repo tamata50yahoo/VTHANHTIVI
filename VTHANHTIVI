@@ -62,7 +62,7 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 #-*--Khác-*--#
 #EXTINF:-1 tvg-id="anvienhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.vthanhtivi.pw/v2/getlink/vieon/an-vien-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 
 #-*--SCTV-*--#
 ##EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
