@@ -182,21 +182,17 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m
 #https://cocc.me/🇸¹⁷|Referer=https://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8|Referer=https://sctvonline.vn/
 
-##EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
-#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
 
-##EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18
 #https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
 
-##EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
-#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv19/playlist.m3u8
 
-##EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19
 #https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv18hd.png",SCTV18 HD #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referer=https://sctvonline.vn/ https:///dl.dropboxusercontent.com/s/frl7ippnwctqr3p// ㅤ |Referer=https://sctvonline.vn/ #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv19hd.png",SCTV19 HD #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referer=https://sctvonline.vn/ https:///dl.dropboxusercontent.com/s/glwz0m2ribdg8dp// ㅤ |Referer=https://sctvonline.vn/
+
 
 ##EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
 #https://api.vthanhtivi.pw/v2/getlink/sctv/sctv20/playlist.m3u8
