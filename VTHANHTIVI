@@ -167,10 +167,9 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 
 
 
-##EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
-#https://api.vthanhtivi.pw/v2/getlink/sctv/sctv16/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16
-#https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 
 
