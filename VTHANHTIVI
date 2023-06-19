@@ -97,9 +97,7 @@ https://hqth.me/SCTV8?khanggtv|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
 https://hqth.me/SCTV9?khanggtv|Referer=http://sctvonline.vn/index.m3u8
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
-#EXTVLCOPT:http-user-agent="Khanggtv"
-https://hqth.me/SCTV10?khanggtv|Referer=http://sctvonline.vn/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
