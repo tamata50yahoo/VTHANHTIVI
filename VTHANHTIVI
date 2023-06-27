@@ -302,10 +302,10 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 
 #-*--VTC-*--#
 #EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1 HD
-https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/NTY0MTR8dnRjMV92aGxzLnNtaWx8ZnB0fDE2ODc4NzI5NTh8NDIuMTE5LjEyNy4xNjZ8MWZhNzE2ZjgwMzQ3MTg1Y2Q1NjA4YjMwNTUzOWVlZDc/fnxhd2/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png", VTC2
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/NTY0MTR8dnRjMl9obHMuc21pbHxmcHR8MTY4Nzg3MzA5MHw0Mi4xMTkuMTI3LjE2NnxkZTJmNzAzZTM2ZjVjYWQwMTY4ZGVjNjJkYTEwNTk4ZA/fnxhd2/vtc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
