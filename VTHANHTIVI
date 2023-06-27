@@ -16,8 +16,7 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
