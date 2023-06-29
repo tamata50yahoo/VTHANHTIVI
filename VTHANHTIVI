@@ -269,8 +269,6 @@ https://liveh12.vtvcab.vn/hls/ONGOLFTA/03.m3u8
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 #-*--VTC-*--#
-#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
-https://vips-livecdn.fptplay.net/NTY0MTR8dnRjMV92aGxzLnNtaWx8ZnB0fDE2ODc4NzI5NTh8NDIuMTE5LjEyNy4xNjZ8MWZhNzE2ZjgwMzQ3MTg1Y2Q1NjA4YjMwNTUzOWVlZDc/fnxhd2/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc1-hd/dvr-${start}-${offset}.m3u8", VTC1 HD
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
