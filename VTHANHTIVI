@@ -261,7 +261,8 @@ http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 http://live.vthanhtivi.pw/hbo
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax
-http://live.vthanhtivi.pw/cinemax
+udp://@225.1.2.86:30120
+#http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
