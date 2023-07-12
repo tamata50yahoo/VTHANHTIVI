@@ -124,11 +124,14 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 udp://@225.1.1.155:30120
 #http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL2 HD
-http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+udp://@225.1.1.154:30120
+#http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl3/dvr-${start}-${offset}.m3u8", THVL3 HD
-http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+udp://@225.1.1.235:30120
+#http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl4/dvr-${start}-${offset}.m3u8", THVL4 HD
-http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
+udp://@225.1.1.25:30120
+#http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 #-*--HTV&HTVC-*--#
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1
