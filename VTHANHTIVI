@@ -269,6 +269,9 @@ http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 
 #-*--Quốc tế--*--#
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6Sakp6crJvVnaKapqRnnqmnrZaVng%3D%3D&time=1690210482&fptplay?hbo
 https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
@@ -278,6 +281,9 @@ http://live.vthanhtivi.pw/hbo
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6Sakp6crJvVnaKapqRnnqmnrZaVng%3D%3D&time=1690210482&fptplay?cinemax
 https://hbo-livecdn.fptplay.net/live_dzones/max_1080p/manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
