@@ -269,10 +269,10 @@ https://code.vthanhtivi.pw/getlink/mytv/32/hd.m3u8
 http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 
 #-*--Quốc tế--*--#
-#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" group-logo="https://logo.anttv.xyz/group/HBO.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" group-logo="https://logo.anttv.xyz/group/HBO.png" tvg-logo="https://logo.anttv.xyz/198.png", HBO HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaegqpzVmp6hqKFnoqWnqJk%3D&time=1690349863&fptplay?hbo
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6WYl6Wcp53VmqGko6pfnqirop6S&time=1691067434&fptplay?hbo
 https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
@@ -281,10 +281,10 @@ http://live.vthanhtivi.pw/hbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://logo.anttv.xyz/199.png", Cinemax HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SblaegqpzVmp6hqKFnoqWnqJk%3D&time=1690349863&fptplay?cinemax
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6WYl6Wcp53VmqGko6pfnqirop6S&time=1691067434&fptplay?cinemax
 https://hbo-livecdn.fptplay.net/live_dzones/max_1080p/manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
