@@ -272,6 +272,7 @@ http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 #-*--Quốc tế--*-#
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO UDP
+
 udp://@225.1.2.233:30120
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
