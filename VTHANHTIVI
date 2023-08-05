@@ -43,9 +43,9 @@ https://code.vthanhtivi.pw/getlink/mytv/224/hd.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
 http://live.anttv.xyz/antmedia/quochoi
 #EXTINF:-1 tvg-id="quochoi" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội WC
-http://live.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+#http://live.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #http://128.199.214.24/QHTV/mpegts
-#https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QPVN HD
 https://code.vthanhtivi.pw/getlink/mytv/227/hd.m3u8
