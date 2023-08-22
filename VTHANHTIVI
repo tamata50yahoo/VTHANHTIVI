@@ -18,7 +18,8 @@ https://vietanhtv.fun/tv360/108/2/index.m3u8
 http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 TÂY NAM BỘ
-https://live-zlr1.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
+#https://live-zlr1.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
+http://stream.cvmtv.site/vtv5tnb?token=live
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png",VTV5 TÂY NGUYÊN
 https://vietanhtv.fun/tv360/207/2/index.m3u8
