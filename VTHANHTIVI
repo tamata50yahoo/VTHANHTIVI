@@ -1,7 +1,7 @@
 #EXTM3U
 
 #-*--VTV-*--#
-EXTINF:0,VTV1
+#EXTINF:0,VTV1
 #EXTGRP:VTV
 https://live2onsport.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8
 
