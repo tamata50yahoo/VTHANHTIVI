@@ -1,62 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 1
-https://asia.vthanhtivi.pw/asiad1/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 2
-https://asia.vthanhtivi.pw/asiad2/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 3
-https://asia.vthanhtivi.pw/asiad3/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 4
-https://asia.vthanhtivi.pw/asiad4/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 5
-https://asia.vthanhtivi.pw/asiad5/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 6
-https://asia.vthanhtivi.pw/asiad6/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 7
-https://asia.vthanhtivi.pw/asiad7/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 8
-https://asia.vthanhtivi.pw/asiad8/index.m3u8
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 9
-https://asia.vthanhtivi.pw/asiad9/index.m3u8
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 10
-https://asia.vthanhtivi.pw/asiad10/index.m3u8
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 11
-https://asia.vthanhtivi.pw/asiad11/mpegts
-#EXTINF:-1 group-title="🏆| Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI", Asiad Event 12
-https://asia.vthanhtivi.pw/asiad12/mpegts
 
 #-*--VTV-*--#
-#EXTINF:-1,VTV1
+EXTINF:0,VTV1
 #EXTGRP:VTV
 https://live2onsport.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8
 
-#EXTINF:-1,VTV2
+#EXTINF:0,VTV2
 #EXTGRP:VTV
-http://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
-#EXTINF:-1,VTV3
+https://live2onsport.vtvcab.vn/onplus/VTV2_HD/m20_index.m3u8
+#EXTINF:0,VTV3
 #EXTGRP:VTV
-https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1,VTV4
+https://live2onsport.vtvcab.vn/onplus/VTV3_HD/m20_index.m3u8
+#EXTINF:0,VTV4
 #EXTGRP:VTV
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:-1,VTV5
+#EXTINF:0,VTV5
 #EXTGRP:VTV
-https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:-1,VTV CẦN THƠ
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#EXTINF:0,VTV CẦN THƠ
 #EXTGRP:VTV
-https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-#EXTINF:-1,VTV7
+https://live2onsport.vtvcab.vn/onplus/VTV6_HD/m30_index.m3u8
+#EXTINF:0,VTV7
 #EXTGRP:VTV
 https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
-#EXTINF:-1,VTV8
+#EXTINF:0,VTV8
 #EXTGRP:VTV
 https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
-#EXTINF:-1,VTV9
+#EXTINF:0,VTV9
 #EXTGRP:VTV
 https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
-#EXTINF:-1,VTV5 TÂY NAM BỘ
+#EXTINF:0,VTV5 TÂY NAM BỘ
 #EXTGRP:VTV
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1,VTV5 TÂY NGUYÊN
+#EXTINF:0,VTV5 TÂY NGUYÊN
 #EXTGRP:VTV
 https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
 
