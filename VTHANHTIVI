@@ -3,7 +3,7 @@
 #-*--VTV-*--#
 #EXTINF:0,VTV1
 #EXTGRP:VTV
-https://live2onsport.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8
+http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 
 #EXTINF:0,VTV2
 #EXTGRP:VTV
