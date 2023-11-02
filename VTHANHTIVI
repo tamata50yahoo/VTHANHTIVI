@@ -25,10 +25,10 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
 #EXTINF:0,VTV8
 #EXTGRP:VTV
-https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 #EXTINF:0,VTV9
 #EXTGRP:VTV
-https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 #EXTINF:0,VTV5 TÂY NAM BỘ
 #EXTGRP:VTV
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
