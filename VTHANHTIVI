@@ -138,14 +138,11 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 
 #-*--THVL-*--#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
-#udp://@225.1.1.155:30120
-http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
-#udp://@225.1.1.154:30120
-http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+http://live.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
-#udp://@225.1.1.235:30120
-http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 #udp://@225.1.2.25:30120
 http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
