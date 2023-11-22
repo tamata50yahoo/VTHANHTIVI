@@ -3,14 +3,15 @@
 #-*--VTV-*--#
 #EXTINF:0,VTV1
 #EXTGRP:VTV
-https://code.vthanhtivi.pw/getlink/mi/a0EtaBDXQHLqOBeuCY3F6g/1700551381/210/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mi/7hXV0ZcD_APRNuT7InJZJw/1700648708/210/playlist.m3u8
 
 #EXTINF:0,VTV2
 #EXTGRP:VTV
-http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/1c1tu55VmhpwEG9LmXRHBg/1700648708/3/playlist.m3u8
 #EXTINF:0,VTV3
 #EXTGRP:VTV
-http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+https://code.vthanhtivi.pw/getlink/mi/vA2L22GUN9FtlOcvQqJJ7Q/1700648708/211/playlist.m3u8
+
 #EXTINF:0,VTV4
 #EXTGRP:VTV
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
