@@ -92,6 +92,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/87.png",SCTV14 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/88.png",SCTV15 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
