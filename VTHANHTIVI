@@ -150,7 +150,7 @@ https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
-https://code.vthanhtivi.pw/getlink/vieon/htv-the-thao/playlist.m3u8
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 
  
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
