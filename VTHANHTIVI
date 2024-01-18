@@ -49,7 +49,7 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #-*--Khác-*--#
 #EXTINF:-1 tvg-id="anvienhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
 
 #-*--K+-*--#
