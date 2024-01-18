@@ -50,7 +50,7 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #-*--Khác-*--#
 #EXTINF:-1 tvg-id="anvienhd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hoatv001.ddns.net:9981/stream/mux/4b333926e3bebd23e990d4df53543285?playlist.m3u8
+https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
 
 #-*--K+-*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
