@@ -509,6 +509,8 @@ udp://@225.1.3.57:30120
 udp://@225.1.3.70:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.3.26:30120
+
+
 #-------------------FPT Play-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
 udp://@225.1.4.1:30120
@@ -899,30 +901,15 @@ udp://@225.1.4.79:30120
 udp://@225.1.1.224:30120
 #EXTINF:0 tvg-id="" group-title="Mua Sắm",BTV11
 udp://@225.1.4.84:30120
-#-------------------K+-------------------#
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-udp://@225.1.1.6:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
-udp://@225.1.1.76:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-udp://@225.1.1.77:30120
 
-#EXTINF:-1, Cinemax Asia
-#EXTGRP:Quốc Tế (HD)
+
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax Asia
 http://ip168.homeip.net:8086/cinemax.m3u8
-#EXTINF:-1, SPOTV
-#EXTGRP:Quốc Tế (HD)
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://lh4.googleusercontent.com/Du72c1GVnGU1iDhtK2F7SH3GcayNMR-T9iOZ8MaVslRbkh-rXb4Bm_XQbn0G5wWD3EjR8r3ccCNa3WSkVQ76__8tKUGCDrSCqe5apPIscWe7VuTU5jH7qzoMU3gcgnz-VA=w1280", SPOTV
 http://202.150.161.68/spotv1/index.m3u8
-#EXTINF:-1, SPOTV2
-#EXTGRP:Quốc Tế (HD)
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://lh4.googleusercontent.com/UXhGbm853Z0FgdyDkWB30dN3ywvvX1_uBmHCBPFSJXpiVXt4MNc5iAKFSNjubunvC_hIOQHoatHMBFTMDAyJvemDEwRqlnpAqseMpuyHe5aXt2VO9BTha0ZfumvQ5-UxmQ=w1280", SPOTV2
 http://202.150.161.68/spotv2/index.m3u8
-#EXTINF:-1, KIX HD
-#EXTGRP:Quốc Tế (HD)
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
-#EXTINF:-1, Love Nature
-#EXTGRP:Quốc Tế (HD)
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
