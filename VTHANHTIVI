@@ -510,8 +510,7 @@ udp://@225.1.3.70:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.3.26:30120
 
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png", Cinemax Asia
-http://ip168.homeip.net:8086/cinemax.m3u8
+
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)", SPOTV
 http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)", SPOTV2
