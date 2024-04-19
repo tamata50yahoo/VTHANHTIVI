@@ -905,11 +905,11 @@ udp://@225.1.4.84:30120
 
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png", Cinemax Asia
 http://ip168.homeip.net:8086/cinemax.m3u8
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://lh4.googleusercontent.com/Du72c1GVnGU1iDhtK2F7SH3GcayNMR-T9iOZ8MaVslRbkh-rXb4Bm_XQbn0G5wWD3EjR8r3ccCNa3WSkVQ76__8tKUGCDrSCqe5apPIscWe7VuTU5jH7qzoMU3gcgnz-VA=w1280", SPOTV
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)", SPOTV
 http://202.150.161.68/spotv1/index.m3u8
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://lh4.googleusercontent.com/UXhGbm853Z0FgdyDkWB30dN3ywvvX1_uBmHCBPFSJXpiVXt4MNc5iAKFSNjubunvC_hIOQHoatHMBFTMDAyJvemDEwRqlnpAqseMpuyHe5aXt2VO9BTha0ZfumvQ5-UxmQ=w1280", SPOTV2
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)", SPOTV2
 http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
