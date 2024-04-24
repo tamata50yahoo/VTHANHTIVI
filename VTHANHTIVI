@@ -654,7 +654,7 @@ udp://@225.1.4.20:30120
 udp://@225.1.4.212:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.90:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO1 (HD 4Mbps)
 udp://@225.1.4.183:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 4Mbps)
 udp://@225.1.4.214:30120
