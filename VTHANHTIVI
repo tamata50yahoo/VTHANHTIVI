@@ -821,11 +821,11 @@ udp://@225.1.4.174:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng + HD
 udp://@225.1.4.178:30120
 #-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu 1
 udp://@225.1.1.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu 2
 udp://@225.1.4.199:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu 3
 udp://@225.1.4.200:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Pladio
 udp://@225.1.2.244:30120
