@@ -109,7 +109,7 @@ udp://@225.1.2.193:30120
 udp://@225.1.2.88:30120
 #EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
 udp://@225.1.2.190:30120
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
+#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
 udp://@225.1.2.171:30120
 
 #-------------------Quốc tế-------------------#
