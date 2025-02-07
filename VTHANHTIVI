@@ -35,14 +35,10 @@ udp://@225.1.1.108:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="VTV" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 udp://@225.1.2.169:30120
-#EXTINF:0 tvg-id="nhandan" group-title="VTV" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân
-udp://@225.1.1.91:30120
-#EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội
-udp://@225.1.2.148:30120
+
 #EXTINF:0 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 udp://@225.1.2.217:30120
-#EXTINF:0 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://i.imgur.com/GmefCpv.png",TTXVN HD
-udp://@225.1.1.167:30120
+
 
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
